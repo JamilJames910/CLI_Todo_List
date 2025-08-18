@@ -150,11 +150,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 > Crafted with ❤️ for developers who love simplicity and productivity in the terminal.
 
