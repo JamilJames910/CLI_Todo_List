@@ -111,15 +111,17 @@ Output:
 
 ```
 🗑️ Task deleted: Clean the house
-```
+
 
 ## Project Structure 🗂️
 
+```
 CLI_Todo_List/
 ├── CLI_Todo_List.py       # Main script
 ├── tasks.json             # Local task storage (created automatically)
 ├── README.md              # Project documentation
 └── .gitignore             # Git ignore file
+```
 
 ## Contributing 🤝
 
