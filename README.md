@@ -111,18 +111,17 @@ Output:
 
 ```
 🗑️ Task deleted: Clean the house
-
+```
 
 ## Project Structure 🗂️
 
 ```
-CLI_Todo_List/
+CLI_Todo_List
 ├── CLI_Todo_List.py       # Main script
 ├── tasks.json             # Local task storage (created automatically)
 ├── README.md              # Project documentation
 └── .gitignore             # Git ignore file
 ```
-
 ## Contributing 🤝
 
 Contributions, suggestions, and improvements are welcome!
@@ -139,3 +138,4 @@ Created with ❤️ by Jamil James
 
 * GitHub: [JamilJames910](https://github.com/JamilJames910)
 * Email: **[Jamil.i.James1@gmail.com](mailto:Jamil.i.James1@gmail.com)**
+
